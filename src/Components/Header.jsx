@@ -91,7 +91,7 @@ const Header = () => {
             </li>
             <li className="flex items-center gap-2 mb-2 cursor-pointer hover:text-gray-300">
             <a href="/" className="flex items-center gap-2 mb-2 cursor-pointer hover:text-gray-300">  <FaBox />
-              My Order </a>
+              My Order  </a>
             </li>
             <li className="flex items-center gap-2 mb-2 cursor-pointer hover:text-gray-300">
               <FaTimesCircle />
